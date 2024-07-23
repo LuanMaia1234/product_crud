@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Product Crud</string>
+    <string name="products">Produtos</string>
+    <string name="no_products_found">Nenhum produto encontrado</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="create_product">Criar Produto</string>
+    <string name="edit_product">Editar Produto</string>
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="price">Preço</string>
+    <string name="publish">Publicar</string>
+    <string name="due_date">Data de vencimento</string>
+    <string name="save">Salvar</string>
+    <string name="required_name_field">Campo Nome é obrigatório</string>
+    <string name="required_description_field">Campo Descrição é obrigatório</string>
+    <string name="required_price_field">Campo Preço é obrigatório</string>
+    <string name="required_date_field">Campo Data de vencimento é obrigatório</string>
+    <string name="created_product">Produto criado com sucesso</string>
+    <string name="updated_product">Produto atualizado com sucesso</string>
+    <string name="are_you_sure_you_want_to_remove_this_item">Tem certeza que deseja remover esse item?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="click_the_button_below_to_create">Clique no botão abaixo para cadastar</string>
+</resources>
