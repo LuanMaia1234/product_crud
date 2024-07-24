@@ -1,6 +1,6 @@
-# 🛒 Product CRUD Manager
+# 🛒 Product CRUD
 
-Product CRUD Manager is an Android app for managing product inventory. With this app, you can create, read, update, and delete (CRUD) product data.
+Product CRUD is an Android app for managing product inventory. With this app, you can create, read, update, and delete (CRUD) product data.
 
 ## ⏩ Preview
 
