@@ -6,7 +6,7 @@ Product CRUD is an Android app for managing product inventory. With this app, yo
 
 Create  | Update | Delete
 ------------- | ------------- | -------------
-![](https://github.com/LuanMaia1234/product_crud/blob/main/assets/preview/create.gif?raw=true) | ![](https://github.com/LuanMaia1234/product_crud/blob/main/assets/preview/update.gif?raw=true) | ![](https://github.com/LuanMaia1234/product_crud/blob/main/assets/preview/delete.gif?raw=true)
+![](https://github.com/luanolimpio/product_crud/blob/main/assets/preview/create.gif?raw=true) | ![](https://github.com/luanolimpio/product_crud/blob/main/assets/preview/update.gif?raw=true) | ![](https://github.com/luanolimpio/product_crud/blob/main/assets/preview/delete.gif?raw=true)
 
 ## 📚 Tech Stack
 
@@ -23,6 +23,6 @@ Create  | Update | Delete
 
 To run this app, you'll need to have Android Studio installed. Follow these steps to get started:
 
- - Clone this repository: git clone https://github.com/LuanMaia1234/product_crud.git
+ - Clone this repository: git clone https://github.com/luanolimpio/product_crud.git
  - Open the project in Android Studio.
  - Build and run the app.
